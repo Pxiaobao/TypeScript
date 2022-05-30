@@ -1,0 +1,1 @@
+!function(){"use strict";var o={name:"张三",age:18};console.log(o),o.age=23,console.log(o),alert(144),console.log("hello ts")}();
