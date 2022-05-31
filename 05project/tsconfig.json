@@ -1,0 +1,14 @@
+{
+    //*表示任意文件，**表示任意文件夹
+    "include":[
+        "./src/*"
+    ],
+    //"exclude":[],
+    "compilerOptions":{
+        "target":"es6",
+        "module":"es6",
+        "strict":true,
+
+    }
+    
+}
